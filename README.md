@@ -8,13 +8,13 @@ By analyzing publicly available information about a city's Airbnb's listings, we
 
 We can ask fundamental questions about Airbnb in any neighbourhood, or across the city as a whole. Questions such as:
 
-    How many listings are in my neighbourhood and where are they?
+  1) How many listings are in my neighbourhood and where are they?
 
-    How many houses and apartments are being rented out frequently to tourists and not to long-term residents?
+  2) How many houses and apartments are being rented out frequently to tourists and not to long-term residents?
 
-    How much are hosts making from renting to tourists (compare that to long-term rentals)?
+  3) How much are hosts making from renting to tourists (compare that to long-term rentals)?
 
-    Which hosts are running a business with multiple listings and where they?
+  4) Which hosts are running a business with multiple listings and where they?
 
-    Can we create a model that predicts prices?
+  5) Can we create a model that predicts prices?
 
